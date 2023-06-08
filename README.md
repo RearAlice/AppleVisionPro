@@ -3,10 +3,8 @@
 # Apple Vision Pro(JP) Doc
 このリポジトリは、Apple Vision Proについて日本語で説明するものであります。
 
-:::note info
-お知らせ  
-リリース前のため、仕様変更が発生する場合があります。
-:::
+> **Warning**
+> リリース前のため、仕様変更が発生する場合があります。
 
 # 空間コンピューティングの時代へようこそ。
 ![img](/img/Apple-WWCD23-Vision-Pro-VisionOS-230605.jpg)
