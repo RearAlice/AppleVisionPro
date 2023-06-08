@@ -1,3 +1,8 @@
 # 空間コンピューティングの時代へようこそ。  
-Apple Vision Proは、デジタルコンテンツと物理的な空間をシームレスに融合させます。
-https://github.com/creatornet/AppleVisionPro_JP/assets/120567699/b6b8d356-6843-4b36-9b5e-862a8da0c811
+Apple Vision Proは、デジタルコンテンツと物理的な空間をシームレスに融合させます。  
+目、手、声を使うだけで、ナビゲートしてくれる。  
+だから、今まで不可能だった方法で、好きなことができる。  
+こんなふうに、すべてを見るのは初めてです。  
+
+https://github.com/creatornet/AppleVisionPro_JP/assets/120567699/63411255-fc4c-46a9-94be-e4403fe35871
+
