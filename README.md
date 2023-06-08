@@ -1,6 +1,7 @@
-![img](/img/Apple-WWCD23-Vision-Pro-lifestyle-working-230605.jpg)
+
 
 # Apple Vision Pro(JP) Doc
+![img](/img/Apple-WWCD23-Vision-Pro-lifestyle-working-230605.jpg)　　
 このリポジトリは、Apple Vision Proについて日本語で説明するものであります。
 
 > **Warning**
